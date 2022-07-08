@@ -21,7 +21,7 @@ namespace WebScraping
             //--Note: this selector with ^ looks for all cases with class'cwiwob'
 
             //Example url
-            SetUpBrowser("shorturl.at/ntuOR");
+            SetUpBrowser("https://shorturl.at/ntuOR");
 
             MoveToOtherBlock();
 
